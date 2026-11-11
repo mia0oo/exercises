@@ -1,1 +1,3 @@
 gcc driver.c crowns.c lut.o -Wall -Wextra -pedantic -std=c99 -Wfloat-equal -Wvla -g3 -fsanitize=address -fsanitize=undefined -Werror -o crowns_d -lm
+
+rd-mvb-linuxlab.bristol.ac.uk
